@@ -1,2 +1,1 @@
-# insulin_prices
-Graph that shows the price of insulin in selected countries
+!["](https://github.com/PietroViolo/insulin_prices/blob/main/insulin_graph.jpg)
